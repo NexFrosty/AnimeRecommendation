@@ -26,10 +26,7 @@ The data for this project is sourced from the [Anime Recommendation Database 202
 ## Setup and Installation
 
 1. Download the Power BI Desktop application if not already installed.
-2. Clone this repository to your local machine:
-```bash
-git clone AnimeRecommendation
-```
+2. Clone this repository to your local machine
 3. Open the `.pbix` file using Power BI Desktop to explore the dashboard.
 <br />
 
