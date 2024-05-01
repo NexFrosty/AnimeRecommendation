@@ -32,6 +32,7 @@ git clone AnimeRecommendation
 ```
 3. Open the `.pbix` file using Power BI Desktop to explore the dashboard.
 
+
 To view the interactive Power BI dashboard:
 1. Visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjIxZWI4MTEtMTM0NC00NzkwLTlkODYtOTI4YmRhMmFiZGU4IiwidCI6ImNkY2JiMGUyLTlmZWEtNGY1NC04NjcwLTY3MjcwNzc5N2FkYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection) hosted online.
 2. Interact with the visualization to apply filters and explore different data insights.
